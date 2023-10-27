@@ -10,7 +10,7 @@ Fully Optimized Materials, More Attachments, and One-Material System. The rig wo
 Corrected Eye and Eyebrow texture mistakes, it uses relative paths for textures now, mouth and eye bone drivers corrected, bone constraints fixed, and the textures can be disabled directly now.
 ## Instructions
 1. Download all files as a zip.
-2. unzip face.zip
+2. Unzip face.zip
 3. Open Roblox Studio
 4. Use Load Avatar plugin and load the avatar you want.
 5. Right Click and click export and export it into a folder

@@ -1,7 +1,7 @@
-# PAINT RIG INF edit V1.5
+# PAINT RIG INF edit V1.6
 ## ONLY WORKS IN Blender 3.4+
 Drivers need to be updated upon duplicate.
-"shortenedimgsquence" and "PaintRigInfEdit" need to be in the same folder.
+"face.zip" and "PaintRigInfEdit.blend" need to be in the same folder.
 ### 1.2 Update
 All Textures Have Been Added
 ### 1.5 Update

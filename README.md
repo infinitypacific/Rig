@@ -7,7 +7,7 @@ All Textures Have Been Added
 ### 1.5 Update
 Fully Optimized Materials, More Attachments, and One-Material System. The rig works on Cycles rendering now.
 ### 1.6 Update
-Corrected Eye and Eyebrow texture mistakes, it uses relative paths for textures now, mouth and eye bone drivers corrected, bone constraints fixed, and the textures can be disabled directly now.
+Corrected Eye and Eyebrow texture mistakes, it uses relative paths for textures now, mouth and eye bone drivers corrected, bone constraints fixed, and the textures can be disabled directly now. Also added a version of the rig for a Roblox 2.0 Avatar.
 ## Instructions
 1. Download all files as a zip.
 2. Unzip face.zip

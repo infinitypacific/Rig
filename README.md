@@ -1,4 +1,5 @@
 # PAINT RIG INF edit V1.6
+![colorgraepaintrig1 5](https://github.com/infinitypacific/Rig/assets/87620151/96281679-d10c-4cda-b7e9-033db11100d4)
 ## ONLY WORKS IN Blender 3.4+
 Drivers need to be updated upon duplicate.
 "face.zip" and "PaintRigInfEdit.blend" need to be in the same folder.
@@ -22,3 +23,4 @@ Corrected Eye and Eyebrow texture mistakes, it uses relative paths for textures 
 11. Press import obj and import your accessories
 12. Set Z 3.5m and rotate by 180 degrees.
 13. Parent those accessories to the relative accessory models.
+![paint RIG](https://github.com/infinitypacific/Rig/assets/87620151/c3de7626-eab6-44d2-bf08-69dfb15ba48d)
